@@ -1,3 +1,5 @@
+const { CloudFog } = require("phosphor-react")
+
 module.exports = {
   "stories": [
     "../src/**/*.stories.mdx",
